@@ -1,3 +1,29 @@
+Tests have been coded using:
+- Mocha
+``` bash
+npm install --global mocha
+```
+
+- Chai
+``` bash
+npm install chai
+```
+
+- Chai-http
+``` bash
+npm install chai-http
+```
+
+To run the tests code:
+1) Navigate from the terminal to where your "palindrome/" folder is located en execute:
+``` bash
+$ node server.js 
+```
+2) Navigate from another terminal to where your "palindrome/" folder is located en execute:
+``` bash
+$ mocha test.js  
+```
+
 
 Backend has been coded using:
 - Nodejs v6.3.0
