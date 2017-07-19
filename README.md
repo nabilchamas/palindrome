@@ -15,11 +15,11 @@ npm install chai-http
 ```
 
 To run the tests:
-1) Navigate from the terminal to where your "palindrome/" folder is located en execute:
+1) Navigate from the terminal to where your "palindrome/" folder is located and execute:
 ``` bash
 $ node server.js 
 ```
-2) Navigate from another terminal to where your "palindrome/" folder is located en execute:
+2) Navigate from another terminal to where your "palindrome/" folder is located and execute:
 ``` bash
 $ mocha test.js  
 ```
