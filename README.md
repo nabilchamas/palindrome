@@ -14,7 +14,7 @@ npm install chai
 npm install chai-http
 ```
 
-To run the tests code:
+To run the tests:
 1) Navigate from the terminal to where your "palindrome/" folder is located en execute:
 ``` bash
 $ node server.js 
@@ -37,7 +37,7 @@ Frontend has been coded using:
 - AngularJS 1.4.3
 
 To run the server code:
-1) Navigate from the terminal to where your "palindrome/" folder is located en execute:
+1) Navigate from the terminal to where your "palindrome/" folder is located and execute:
 ``` bash
 $ node server.js 
 ```
