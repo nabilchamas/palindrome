@@ -2,16 +2,19 @@
 Backend has been coded using:
 - Nodejs v6.3.0
 - NPM 3.10.3
-- Express 
+- Express, to install express execute:
+``` bash
 $ npm install express --save
+```
 
 Frontend has been coded using:
 - AngularJS 1.4.3
 
 To run the server code:
-1) Navigate from the terminal to where your "palindrome/" folder is located.
-2) $ node server.js 
-
+1) Navigate from the terminal to where your "palindrome/" folder is located en execute:
+``` bash
+$ node server.js 
+```
 
 To run the frontend:
 1) Navigate from the terminal to where your "palindrome/" folder is located.
